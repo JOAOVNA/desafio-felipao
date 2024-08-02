@@ -2,7 +2,7 @@
 //02/08/2024
 
 // Variaveis/ Operadores/ Estrutura de decisões 
-//Tive idéia pra fazer um laço de repetição mas me faltou conhecimento pra concluir, vou seguir o curso e depois volto pra completar o códiog.
+//Tive ideia pra fazer um laço de repetição mas me faltou conhecimento pra concluir, vou seguir o curso e depois volto pra completar o códiog.
 
 let nomeHeroi = "Brendon"
 let xpHeroi = 950
