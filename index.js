@@ -1,25 +1,33 @@
-let heroi = "Brendon"
-let xp = 23000
+//João vitor
+//02/08/2024
+
+// Variaveis/ Operadores/ Estrutura de decisões 
+//Tive idéia pra fazer um laço de repetição mas me faltou conhecimento pra concluir, vou seguir o curso e depois volto pra completar o códiog.
+
+let nomeHeroi = "Brendon"
+let xpHeroi = 950
 let elo = ""
 
-if (xp < 1000) {
+
+if (xpHeroi< 1000) {
     elo = "Ferro"
-}else if ((xp >= 1001) && (xp <= 2000)){
+}else if ((xpHeroi >= 1001) && (xpHeroi <= 2000)){
     elo = "Bronze"
-}else if ((xp >= 1001) && (xp <= 2000)){
+}else if ((xpHeroi >= 1001) && (xpHeroi <= 2000)){
     elo = "Prata"
-}else if ((xp >= 2001) && (xp <= 5000)){
+}else if ((xpHeroi >= 2001) && (xpHeroi <= 5000)){
     elo = "Ouro"
-}else if ((xp >= 5001) && (xp <= 7000)){
+}else if ((xpHeroi >= 5001) && (xpHeroi <= 7000)){
     elo = "Platina"
-}else if ((xp >= 7001) && (xp <= 8000)){
+}else if ((xpHeroi >= 7001) && (xpHeroi <= 8000)){
     elo = "Ascendente"
-}else if ((xp >= 8001) && (xp <= 9000)){
+}else if ((xpHeroi >= 8001) && (xpHeroi <= 9000)){
     elo = "Imortal"
-}else if(xp >= 10001){
+}else if(xpHeroi >= 10001){
     elo = "Radiante"
 }
 
-console.log("O Herói de nome " + heroi + " está no nível " + elo)
+console.log("O Herói de nome " + nomeHeroi + " está no nível " + elo)
+
 
 
